@@ -1,0 +1,21 @@
+h3{
+    text-align: center;
+    font-family:'Cairo', sans-serif;
+    font-weight: bold;
+}
+main{
+   width:40%;
+   margin-top:30px;
+}
+table{
+   box-shadow: 1px 1px 10px silver;
+   border-radius: 16px;   
+}
+thead{
+   background-color: #198754;
+   color: white;
+   text-align: center;
+}
+tbody{
+   text-align: center;
+}

@@ -1,0 +1,25 @@
+input{
+
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid grey;
+    border-radius: 8px;
+    text-align: right;
+ }
+ .form-container{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 60px;/*الدود الخارجية*/
+    padding: 10px;/*الحدود الداخية*/
+    border-radius: 16px;
+}
+.btn{
+    text-align: center;
+    background-color: #1AC15C;
+    cursor: pointer;
+    min-height: 35px;
+}

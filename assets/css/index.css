@@ -1,0 +1,60 @@
+.main{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;/*الدود الخارجية*/
+    padding: 10px;/*الحدود الداخية*/
+    border-radius: 16px;
+}
+h2{
+    font-family: 'Cairo', sans-serif;
+}
+input{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid grey;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #fafafa;
+}
+button{
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #1AC15C;
+    cursor: pointer;
+    font-family: 'Cairo', sans-serif;
+    margin-bottom: 15px;
+}
+label{
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #1F87CF;
+    font-family: 'Cairo', sans-serif;
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:tomato;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+}
+/* textarea {
+    border: 1px solid black;
+    background-color: #fafafa;
+    font-family: sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px 0;
+} */
+  
